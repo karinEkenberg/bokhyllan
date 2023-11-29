@@ -1,0 +1,8 @@
+C:\Users\zirko\source\repos\bokhyllan\bokhyllan\bin\Debug\bokhyllan.exe.config
+C:\Users\zirko\source\repos\bokhyllan\bokhyllan\bin\Debug\bokhyllan.exe
+C:\Users\zirko\source\repos\bokhyllan\bokhyllan\bin\Debug\bokhyllan.pdb
+C:\Users\zirko\source\repos\bokhyllan\bokhyllan\obj\Debug\bokhyllan.csproj.AssemblyReference.cache
+C:\Users\zirko\source\repos\bokhyllan\bokhyllan\obj\Debug\bokhyllan.csproj.SuggestedBindingRedirects.cache
+C:\Users\zirko\source\repos\bokhyllan\bokhyllan\obj\Debug\bokhyllan.csproj.CoreCompileInputs.cache
+C:\Users\zirko\source\repos\bokhyllan\bokhyllan\obj\Debug\bokhyllan.exe
+C:\Users\zirko\source\repos\bokhyllan\bokhyllan\obj\Debug\bokhyllan.pdb
